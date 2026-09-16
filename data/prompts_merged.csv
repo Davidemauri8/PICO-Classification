@@ -11286,7 +11286,9 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 12311,5741924,weight gain,exercise,no exercise
 12312,5741924,proportion of newborns small-for-gestational age and large-for-gestational age,exercise,no exercise
 12313,5741924,"mean birth weight, length, and head circumference ",exercise,no exercise
-12314,3549213,agitation,"Professional ‘ElderClowns’ provided 9–12 weekly humour therapy sessions, augmented by resident engagement by trained staff ‘LaughterBosse 5980378 ,Median and IQR of peak increment of plasma Pi concentrations (ΔPi‐C Max),NaH2PO4 or Na2HPO4 or MgHPO4,control,Significantly increased,ΔPi‐C Max 	mg/dL	0.06a [0.03–0.25]	3.19b [2.11–4.04]	5.33b [5.26–5.35]	4.3b [3.59–4.68],28720:29169, 5980378 ,29572937,Unavailable
+12314,3549213,agitation,"Professional ‘ElderClowns’ provided 9–12 weekly humour therapy sessions, augmented by resident engagement by trained staff ‘LaughterBosse 5980378 ,Median and IQR of peak increment of plasma Pi concentrations (ΔPi‐C Max),NaH2PO4 or Na2HPO4 or MgHPO4,control,Significantly increased,ΔPi‐C Max 	mg/dL	0.06a [0.03–0.25]	3.19b [2.11–4.04]	5.33b [5.26–5.35]	4.3b [3.59–4.68],28720:29169, 5980378 ,29572937,Unavailable
+
+
  5980378 ,area under the concentration‐time curve of plasma Pi concentration increment (ΔPi‐AUC),NaH2PO4 or Na2HPO4 or MgHPO4,control,Significantly increased,Pi‐AUC	mg*h/L	0.68a [–0.68‐3.5]	54.17b [37.54–66.96]	93.48c [82.07–101.04]	78.94a","b [74.73–85.97]"""
 12315,5980378,area under the concentration‐time curve of plasma Pi concentration increment (ΔPi‐AUC),NaH2PO4 or Na2HPO4,MgHPO4
 12316,3590691,percentage of arterial blood oxygen saturation,"open suctioning was carried out and after three hours of cleaning, closed suctioning was done","closed suctioning was firstly done and following three hours of cleaning, open suctioning was implemented"
@@ -12386,7 +12388,8 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 13410,1065104,specific gravity,750 μmol/kg magnesium sulfate was given intramuscularly immediately after surgery.,equal volume of saline
 13411,5873829,clinical recovery at eight weeks,gluten-free diet (GFD),GFD with prednisolone (GFD+P)
 13412,5873829,improvement in histology by at least one grade at 12 months,gluten-free diet (GFD),GFD with prednisolone (GFD+P)
-13413,3549213,agitation,"Professional ‘ElderClowns’ provided 9–12 weekly humour therapy sessions, augmented by resident engagement by trained staff ‘LaughterBosse 5980378 ,Median and IQR of peak increment of plasma Pi concentrations (ΔPi‐C Max),NaH2PO4 or Na2HPO4 or MgHPO4,control,Significantly increased,ΔPi‐C Max 	mg/dL	0.06a [0.03–0.25]	3.19b [2.11–4.04]	5.33b [5.26–5.35]	4.3b [3.59–4.68],28720:29169, 5980378 ,29572937,Unavailable
+13413,3549213,agitation,"Professional ‘ElderClowns’ provided 9–12 weekly humour therapy sessions, augmented by resident engagement by trained staff ‘LaughterBosse 5980378 ,Median and IQR of peak increment of plasma Pi concentrations (ΔPi‐C Max),NaH2PO4 or Na2HPO4 or MgHPO4,control,Significantly increased,ΔPi‐C Max 	mg/dL	0.06a [0.03–0.25]	3.19b [2.11–4.04]	5.33b [5.26–5.35]	4.3b [3.59–4.68],28720:29169, 5980378 ,29572937,Unavailable
+
  5980378 ,area under the concentration‐time curve of plasma Pi concentration increment (ΔPi‐AUC),NaH2PO4 or Na2HPO4 or MgHPO4,control,Significantly increased,Pi‐AUC	mg*h/L	0.68a [–0.68‐3.5]	54.17b [37.54–66.96]	93.48c [82.07–101.04]	78.94a","b [74.73–85.97]"""
 13414,5862001,Smoothness indexes and treatment-on-variability indexes,dual combination [DCCB + thiazide diuretic (TD)] or olmesartan dual combination (DCCB or TD) or triple combination therapy (DCCB+TD),placebo or angiotensin-converting enzyme inhibitors (ACEIs) or angiotensin II receptor blockers (ARBs) or dihydropyridine calcium channel blockers (DCCBs) or olmesartan 
 13415,5862001,24-h blood pressure,olmesartan dual combination (olmesartan and DCCB),olmesartan dual combination (olmesartan and TD
